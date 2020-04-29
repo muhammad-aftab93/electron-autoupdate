@@ -2,7 +2,7 @@
   "productName": "Electron Autoupdate",
   "name": "electron-autoupdate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Application for electron tutorials",
   "main": "main.js",
   "scripts": {
     "start": "electron .",

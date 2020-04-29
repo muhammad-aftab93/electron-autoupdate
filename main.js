@@ -48,7 +48,6 @@ autoUpdater.on('update-downloaded', (event, releaseNotes, releaseName) => {
 
 ////////////////////////////////////////////////////////////////////////
 
-
 app.whenReady().then(createWindow)
 
 app.on('window-all-closed', () => {
